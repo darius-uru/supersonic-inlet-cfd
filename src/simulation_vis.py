@@ -183,7 +183,7 @@ def save_figure():
     pass
 
 
-
+print("Runned")
 ## Git cmds
 # git status
 
